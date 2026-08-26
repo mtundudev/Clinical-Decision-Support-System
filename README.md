@@ -1,7 +1,7 @@
 # Clinical-Decision-Support-System
 AI-powered microscopic image analysis and clinical decision support using YOLOv8, FastAPI, PostgreSQL, and edge computing.
 
-# 🧬 Clinical AI — Clinical Decision Support System
+# 🧬 Clinical AI — Clinical Decision Support System backend
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
