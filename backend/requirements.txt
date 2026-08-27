@@ -11,12 +11,3 @@ passlib[bcrypt]
 bcrypt
 python-multipart
 Pillow
-ultralytics
-opencv-python-headless
-numpy
-httpx
-pytest
-pytest-asyncio
-black
-isort
-ruff
