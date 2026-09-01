@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-from app.routers import patient,pathoens,antibiotic
+from app.api.v1.routers import pathogens,patient,antibiotic
 
 app=FastAPI(title="Clinical Decision Support System Backend")
 
